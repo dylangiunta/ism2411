@@ -1,4 +1,9 @@
-# Exercise 1 
+# 1. The most surprising thing about lists is how easy they are to edit, using .remove or .append. 
+# Thought it would be more difficult to edit lists coming into it.
+# 2. In my job working at a golf course, I have not had to handle the tournaments scoring,
+# but I feel like it would be able to help speed up finding things like scoring average, highs and lows etc.
+# I do not know how it would have been different in excel because I have not had to use it yet.
+# Exercise 1
 inventory = ["pen", "notebook", "stapler", "tape", "marker"]
 print(inventory)
 print(len(inventory)) 
