@@ -31,3 +31,4 @@ Using Git changes the way I approach editing a working script because every chan
 
 #3. 
 I guess I could add a file with my personal settings on my machine to my .gitignore, because the file could contain personal information and settings would be different for every machine.
+# inclass_lab11_monday
