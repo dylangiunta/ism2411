@@ -1,6 +1,8 @@
 # Reflections
-
-
+#1. In real work, you would use the parentheses with get when it is okay for something to be missing and can be cleaner when missing data is expected.
+# The bracket version tries to access email directly, and if it was not there it would raise an error in the terminal, but since we use try,except the error is caught and handled.
+# 2. This pattern reminds me of a Pivot Table from excel. The python version might be more useful for large datasets because it can automate the process, 
+# handle millions of records, and be rerun consistently without manual steps.
 
 # Exercise 1 
 customer = {
